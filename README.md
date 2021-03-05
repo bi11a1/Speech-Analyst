@@ -11,6 +11,10 @@ google STT API was used.
 ## Screenshots of the website
 <br/><br/>**Android App:**<br/><br/>
 
-Registration             |  Sign In          |  Sign In     
-:-------------------------:|:-------------------------:|:-------------------------:
-<img src="https://github.com/bi11a1/Speech-Analyst/blob/main/Demo/Android/registration.jpg" width="250">  |  <img src="https://github.com/bi11a1/Speech-Analyst/blob/main/Demo/Android/sign_in.jpg" width="250">  |  <img src="https://github.com/bi11a1/Speech-Analyst/blob/main/Demo/Android/home_page.jpg" width="250">
+Registration             |  Sign In         
+:-------------------------:|:-------------------------:
+<img src="https://github.com/bi11a1/Speech-Analyst/blob/main/Demo/Android/registration.jpg" width="250">  |  <img src="https://github.com/bi11a1/Speech-Analyst/blob/main/Demo/Android/sign_in.jpg" width="250">
+
+Dashboard
+:-------------------------:
+<img src="https://github.com/bi11a1/Speech-Analyst/blob/main/Demo/Android/home_page.jpg" width="250">
