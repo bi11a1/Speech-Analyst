@@ -30,8 +30,8 @@ Upload Speech             |  Record Speech
 
 Repository Home Page         
 :-------------------------:|
-<img src="https://github.com/bi11a1/Speech-Analyst/blob/main/Demo/Website/home_rep.PNG" width="550">  |  
+<img src="https://github.com/bi11a1/Speech-Analyst/blob/main/Demo/Website/home_rep.PNG">  |  
 
 Speech Details         
 :-------------------------:|
-<img src="https://github.com/bi11a1/Speech-Analyst/blob/main/Demo/Website/show_speech_admin.PNG" width="550">
+<img src="https://github.com/bi11a1/Speech-Analyst/blob/main/Demo/Website/show_speech_admin.PNG"> |
