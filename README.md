@@ -13,4 +13,4 @@ google STT API was used.
 
 Solarized dark             |  Solarized Ocean          |  No Ocean
 :-------------------------:|:-------------------------:|:-------------------------:
-<img src="https://github.com/bi11a1/Speech-Analyst/blob/main/Demo/Android/registration.jpg" width="300" height="150">  |  <img src="https://github.com/bi11a1/Speech-Analyst/blob/main/Demo/Android/sign_in.jpg" width="300" height="150">  | <img src="https://github.com/bi11a1/Speech-Analyst/blob/main/Demo/Android/home_page.jpg" width="300" height="150">
+<img src="https://github.com/bi11a1/Speech-Analyst/blob/main/Demo/Android/registration.jpg" width="150" height="400">  |  <img src="https://github.com/bi11a1/Speech-Analyst/blob/main/Demo/Android/sign_in.jpg" width="150" height="400">  | <img src="https://github.com/bi11a1/Speech-Analyst/blob/main/Demo/Android/home_page.jpg" width="150" height="400">
