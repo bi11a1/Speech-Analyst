@@ -10,8 +10,7 @@ google STT API was used.
 
 ## Screenshots of the website
 <br/><br/>**Android App:**<br/><br/>
-![Registration](https://github.com/bi11a1/Speech-Analyst/blob/main/Demo/Android/registration.jpg) | ![Sign In](https://github.com/bi11a1/Speech-Analyst/blob/main/Demo/Android/sign_in.jpg) | ![Dashboard](https://github.com/bi11a1/Speech-Analyst/blob/main/Demo/Android/home_page.jpg)
 
 Solarized dark             |  Solarized Ocean          |  No Ocean
 :-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/bi11a1/Speech-Analyst/blob/main/Demo/Android/registration.jpg)  |  ![](https://github.com/bi11a1/Speech-Analyst/blob/main/Demo/Android/registration.jpg)  | ![](https://github.com/bi11a1/Speech-Analyst/blob/main/Demo/Android/home_page.jpg)
+![](https://github.com/bi11a1/Speech-Analyst/blob/main/Demo/Android/registration.jpg=250x250)  |  ![](https://github.com/bi11a1/Speech-Analyst/blob/main/Demo/Android/registration.jpg)  | ![](https://github.com/bi11a1/Speech-Analyst/blob/main/Demo/Android/home_page.jpg)
