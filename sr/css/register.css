@@ -1,0 +1,186 @@
+.sidebar{
+    /*background-color: lightyellow;*/
+    background-color: white;
+    border: 1px solid lightgrey;
+    border-left: 1px solid blue;
+    border-bottom: 1px solid blue;
+    border-top: 0px;
+}
+
+.title{
+    padding: 5px;
+    margin: 5px;
+    font-size: 20px;
+    font-family: monospace;
+    color: #5200cc;
+    border: 0px;
+    border-bottom: 1px solid grey;
+    border-style: dashed;
+}
+
+.about-project{
+    font-size: 18px;
+    padding: 5px;
+}
+
+.about-option{
+    color: black;
+    padding: 4px;
+    padding-left: 20px;
+}
+.about-link{
+    text-decoration: none;
+    color: black;
+}
+
+.search-div{
+    font-size: 17px;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    /*background-color: #ecffdd;*/
+    background-color: white;
+    border: 0px;
+    min-height: 700px;
+    border-bottom: 1px solid blue;
+    border-right: 1px solid blue;
+    padding: 0px 20px 20px 20px;
+    /*-webkit-box-shadow: 0 0 1px 1px blue inset;
+    -moz-box-shadow: 0 0 1px 1px blue inset;
+    box-shadow: 0 0 1px 1px blue inset;*/
+}
+
+.category {
+    width: 100%; 
+    text-align: left; 
+    font-size: 18px;
+}
+.text {
+    width: 100%;
+    margin: 5px 0 20px 0;
+    font-size: 18px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+    padding: 6px;
+    padding-left: 10px;
+}
+.button {
+    width: auto;
+    background-color: darkslategrey;
+    color: white;
+    margin: 10px;
+    padding: 10px;
+    font-size: 18px;
+    border: 2px solid black;
+    border-radius: 10px;
+    cursor: pointer;
+    -webkit-transition-duration: 0.5s; /* Safari */
+    transition-duration: 0.5s;
+    box-shadow: 3px 3px 5px grey;
+}
+.button:hover {
+    background-color: lavender;
+    color: black;
+    -webkit-transition-duration: 0.5s; /* Safari */
+    transition-duration: 0.5s;
+    opacity: 0.8;
+    box-shadow: 3px 3px 5px grey;
+}
+.button:focus {
+    outline:0;
+}
+
+.search-laptop{
+    display: flex;
+}
+.search-mini-laptop, .search-ipad, .search-mobile{
+    display: none;
+}
+
+/* --------------For mini-laptop------------- */
+@media only screen and (max-width: 1000px){
+    .search-mini-laptop{
+        display: flex;
+    }
+    .search-laptop, .search-ipad, .search-mobile{
+        display: none;
+    }
+}
+
+
+/* --------------For medium devices like ipad------------- */
+@media only screen and (max-width: 768px){
+    .search-ipad{
+        display: block;
+    }
+    .search-laptop, .search-mini-laptop, .search-mobile{
+        display: none;
+    }
+
+    .search-div{
+        font-size: 16px;
+        border-left: 1px solid blue;
+        padding: 0px 10px 10px 10px;
+    }
+
+    .category {
+        font-size: 17px;
+    }
+    .text {
+        padding: 4px;
+        padding-left: 7px;
+        margin: 5px 0 15px 0;
+        font-size: 17px;
+        border-radius: 4px;
+    }
+
+    .button {
+        margin: 7px;
+        padding: 7px;
+        font-size: 17px;
+        border: 2px solid black;
+        border-radius: 7px;
+        box-shadow: 2px 2px 4px grey;
+    }
+    .button:hover {
+        box-shadow: 2px 2px 4px grey;
+    }
+}
+
+/* --------------For small devices like phone------------- */
+@media only screen and (max-width: 360px){
+    .search-mobile{
+        display: flex;
+    }
+    .search-laptop, .search-mini-laptop, .search-ipad{
+        display: none;
+    }
+
+    .search-div{
+        font-size: 15px;
+        border-left: 1px solid blue;
+        padding: 0px 8px 8px 8px;
+    }
+
+    .category {
+        font-size: 16px;
+    }
+    .text {
+        padding: 3px;
+        padding-left: 6px;
+        margin: 5px 0 12px 0;
+        font-size: 16px;
+        border-radius: 3px;
+    }
+    .button {
+        margin: 5px;
+        padding: 5px;
+        font-size: 16px;
+        border: 2px solid black;
+        border-radius: 5px;
+        box-shadow: 1px 1px 3px grey;
+    }
+    .button:hover {
+        box-shadow: 1px 1px 3px grey;
+    }
+}

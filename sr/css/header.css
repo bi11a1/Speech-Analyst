@@ -1,0 +1,101 @@
+.body{
+	margin: 0px;
+	background-color: aliceblue;
+}
+
+.header-img{
+	margin: 0px;
+	padding-left: 20px;
+}
+
+.icon{/*
+	border: 1px solid blue;
+	border-bottom: 1px solid lightgrey;
+	border-top: 0px;*/
+	background-image: url('../images/4305843 - Copy.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.header-option{
+	font-size: 20px;
+	margin-top: 90px;
+	padding: 10px;
+	float: right;
+	color: lightgrey;
+	font-family: monospace;
+}
+
+.header-option:hover{
+	margin-top: 89px;
+	color: white;
+}
+
+
+
+.laptop{
+	display: block;
+}
+
+.mobile-ipad{
+	background-color: white;
+	display: none;
+}
+
+.option-link{
+	color: inherit;
+	text-decoration: none;
+}
+
+.medium2{
+	display: none;
+}
+
+/* --------------For 1000px monitor size------------- */
+@media only screen and (max-width: 1000px){
+	.medium1{
+		display: none;
+	}
+	.medium2{
+		display: block;
+	}
+}
+
+/* --------------For medium devices like ipad------------- */
+@media only screen and (max-width: 768px){
+	.header-option{
+		margin-top: 0px;
+		font-size: 18px;
+		float: none;
+		padding: 7px;
+	}
+	.header-option:hover{
+		margin-top: 0px;
+	}
+	.laptop{
+		display: none;
+	}
+	.mobile-ipad{
+		display: block;
+	}
+}
+
+/* --------------For small devices like phone------------- */
+@media only screen and (max-width: 360px){
+	.header-option{
+		margin-top: 0px;
+		font-size: 16px;
+		float: none;
+		padding: 7px;
+	}
+	.header-option:hover{
+		margin-top: 0px;
+	}
+	.laptop{
+		display: none;
+	}
+	.mobile-ipad{
+		display: block;
+	}
+
+}
