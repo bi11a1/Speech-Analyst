@@ -24,3 +24,10 @@ Now you can directly upload the speech or record a new speech. Then after fillin
 Upload Speech             |  Record Speech        
 :-------------------------:|:-------------------------:
 <img src="https://github.com/bi11a1/Speech-Analyst/blob/main/Demo/Android/upload_file.jpg" width="250">  |  <img src="https://github.com/bi11a1/Speech-Analyst/blob/main/Demo/Android/record_upload.jpg" width="250">
+
+**Website:**
+<br>After uploading the speech, your speech will be available in the website where it will be ready for processing. Only admin can see the processed text. We have also analzed the text to find out if the speech contains any suspicious contents or not. For this we have used LSTM network.<br>
+
+Repository Home Page           |  Speech Details        
+:-------------------------:|:-------------------------:
+<img src="https://github.com/bi11a1/Speech-Analyst/blob/main/Demo/Website/home_rep.PNG" width="450">  |  <img src="https://github.com/bi11a1/Speech-Analyst/blob/main/Demo/Android/show_speeches_admin.PNG.jpg" width="450">
