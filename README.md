@@ -18,5 +18,8 @@ Registration             |  Sign In         | Dashboard
 <img src="https://github.com/bi11a1/Speech-Analyst/blob/main/Demo/Android/registration.jpg" width="250">  |  <img src="https://github.com/bi11a1/Speech-Analyst/blob/main/Demo/Android/sign_in.jpg" width="250">  |  <img src="https://github.com/bi11a1/Speech-Analyst/blob/main/Demo/Android/home_page.jpg" width="250">
 
 <br>
-
+Now you can directly upload the speech or record a new speech. Then after filling up the appropriate information you can upload it to the server.
 <br>
+Upload Speech             |  Record Speech        
+:-------------------------:|:-------------------------:
+<img src="https://github.com/bi11a1/Speech-Analyst/blob/main/Demo/Android/upload_file.jpg" width="250">  |  <img src="https://github.com/bi11a1/Speech-Analyst/blob/main/Demo/Android/record_upload.jpg" width="250">
