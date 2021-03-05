@@ -17,4 +17,4 @@ Registration             |  Sign In
 
 Dashboard |
 :-------------------------:|
-<img src="https://github.com/bi11a1/Speech-Analyst/blob/main/Demo/Android/home_page.jpg" width="250">
+<img src="https://github.com/bi11a1/Speech-Analyst/blob/main/Demo/Android/home_page.jpg" width="250"> |
