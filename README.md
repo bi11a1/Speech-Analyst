@@ -28,6 +28,10 @@ Upload Speech             |  Record Speech
 **Website:**
 <br>After uploading the speech, your speech will be available in the website where it will be ready for processing. Only admin can see the processed text. We have also analzed the text to find out if the speech contains any suspicious contents or not. For this we have used LSTM network.<br>
 
-Repository Home Page           |  Speech Details        
-:-------------------------:|:-------------------------:
-<img src="https://github.com/bi11a1/Speech-Analyst/blob/main/Demo/Website/home_rep.PNG" width="550">  |  <img src="https://github.com/bi11a1/Speech-Analyst/blob/main/Demo/Website/show_speech_admin.PNG" width="550">
+Repository Home Page         
+:-------------------------:|
+<img src="https://github.com/bi11a1/Speech-Analyst/blob/main/Demo/Website/home_rep.PNG" width="550">  |  
+
+Speech Details         
+:-------------------------:|
+<img src="https://github.com/bi11a1/Speech-Analyst/blob/main/Demo/Website/show_speech_admin.PNG" width="550">
