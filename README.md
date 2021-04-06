@@ -4,7 +4,7 @@ tracks user geographical position so that it can automatically find out the loca
 google STT API was used.
 
 **Publications:** 
-https://link.springer.com/chapter/10.1007/978-981-15-6584-7_6
+https://link.springer.com/chapter/10.1007/978-981-15-6584-7_6 \\
 https://www.hindawi.com/journals/complexity/2020/5639787/
 
 **Online Live Demo:** https://speechanalyst.com/cuetsr/
