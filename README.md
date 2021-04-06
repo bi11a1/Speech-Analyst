@@ -3,7 +3,7 @@ The goal of this project was to collect speeches using an android app and then c
 tracks user geographical position so that it can automatically find out the location from where the speech was uploaded. To convert the speech into text
 google STT API was used.
 
-**Publications:** 
+**Publications:** <br>
 https://link.springer.com/chapter/10.1007/978-981-15-6584-7_6 <br>
 https://www.hindawi.com/journals/complexity/2020/5639787/
 
